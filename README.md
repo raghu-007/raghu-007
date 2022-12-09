@@ -14,9 +14,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raghu7_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raghu7_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raghu0007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raghu0007/" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://raghu0007.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://raghu0007.hashnode.dev/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@urstrulyraghu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@urstrulyraghu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raghu0007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghu0007/" height="30" width="40" /></a>
+<a href="https://hashnode.com/raghu0007.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="raghu0007.hashnode.dev/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@urstrulyraghu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@urstrulyraghu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
