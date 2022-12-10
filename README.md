@@ -8,9 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/raghu7_" target="blank"><img src="https://img.shields.io/twitter/follow/raghu7_?logo=twitter&style=for-the-badge" alt="raghu7_" /></a> </p>
 
+- 👨‍💻Portfolio [https://linktr.ee/raghu0007](https://linktr.ee/raghu0007)
+
 - 💬 Ask me about **DevOps And AI, Startup ideas**
 
-- ⚡ Fun fact **🪄**
+- ⚡ Fun fact **Unique**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghu-007&show_icons=true&locale=en" alt="raghu-007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghu-007&" alt="raghu-007" /></p>
+
