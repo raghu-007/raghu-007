@@ -1,4 +1,4 @@
-![logo] (https://github.com/raghu-007/raghu-007/blob/main/Untitled%20Design.png)
+![logo](https://github.com/raghu-007/raghu-007/blob/main/Untitled%20Design.png)
 
 <h1 align="center">Hi 👋, I'm RAGHU S</h1>
 <h3 align="center">Software Engineer and Tech Entrepreneur</h3>
