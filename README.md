@@ -10,29 +10,26 @@
 
 <p align="left"> <a href="https://twitter.com/raghu7_" target="blank"><img src="https://img.shields.io/twitter/follow/raghu7_?logo=twitter&style=for-the-badge" alt="raghu7_" /></a> </p>
 
-- 🔭 I’m currently working on **My Startup Idea and Focusing on it.**
+- 🔭 I’m currently working on **My Startup and its in Ideation stage.**
 
 - 🌱 I’m currently learning **AI**
 
-- 👯 I’m looking to collaborate on **Open source, Startup and Business etc**
+- 👯 I’m looking to collaborate on **Open source projects, Startup and Business etc**
 
 - 👨‍💻Portfolio [https://linktr.ee/raghu0007](https://linktr.ee/raghu0007)
 
 - 📝 I regularly write articles on hashnode [https://hashnode.com/@raghu07](https://hashnode.com/@raghu07)
 
-- 💬 Ask me about **DevOps And AI, Startup ideas.**
+- 💬 Ask me about **DevOps,AI and Startup's.**
 
 - 📫 How to reach me **raghu-07@outlook.com**
 
-- ⚡ Fun fact **Unique and Different.**
-
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/raghu7_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raghu7_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raghu0007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghu0007/" height="30" width="40" /></a>
 </p>
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghu-007&show_icons=true&locale=en&layout=compact" alt="raghu-007" /></p>
 
