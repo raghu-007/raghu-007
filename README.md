@@ -1,4 +1,4 @@
-![logo](https://github.com/raghu-007/raghu-007/blob/main/Untitled%20Design.png)
+![logo](https://github.com/raghu-007/raghu-007/blob/main/Hey%20It's%20Raghu%20S.%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Raghu S</h1>
 <h3 align="center">Startup Founder and Software Developer, Tech Enthusiast</h3>
