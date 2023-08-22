@@ -15,7 +15,7 @@
 
 - 📝 I regularly write blogs on Hashnode [https://hashnode.com/@raghu07](https://hashnode.com/@raghu07)
 
-- 💬 Ask me about **Startup's and AI, DevOps**
+- 💬 Ask me about **Startup's and AI, DevOps & DevSecOps**
 
 - 📫 How to reach me **raghu-07@outlook.com**
 
