@@ -14,7 +14,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BLOGPOSTS"
-          feed_list: "https://github.com/raghu-007/raghu-007/blob/main/README.md/rss.xml"
+          feed_list: "https://github.com/raghu-007.me/rss.xml"
           template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
           commit_message: "recent posts section updated"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
