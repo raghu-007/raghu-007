@@ -29,11 +29,11 @@
 ---
 #### :books: Recent articles on Hashnode
 <!-- BLOGPOSTS:START -->
- - 🌮 [Demystifying DevOps: The Pillars that Power Software Magic](https://raghu0007.hashnode.dev/demystifying-devops-the-pillars-that-power-software-magic)
- - 🌮 [Supercharge Your Productivity with Digital Note-Taking!](https://raghu0007.hashnode.dev/supercharge-your-productivity-with-digital-note-taking)
- - 🔥 [Learn Faster: The 80/20 Secret to Mastering Tech and Code!](https://raghu0007.hashnode.dev/learn-faster-the-8020-secret-to-mastering-tech-and-code)
- - 🔥 [Unleashing the Power of BFS: Learn Programming Languages at Warp Speed!](https://raghu0007.hashnode.dev/unleashing-the-power-of-bfs-learn-programming-languages-at-warp-speed)
- - 🔥 [Mastering Data Structures and Algorithms in 4 Weeks: Your Ultimate Guide](https://raghu0007.hashnode.dev/mastering-data-structures-and-algorithms-in-4-weeks-your-ultimate-guide)<!-- BLOGPOSTS:END -->
+ - 🌮 [How to Grow and Earn Your GitHub Contributions](https://raghu0007.hashnode.dev/how-to-grow-and-earn-your-github-contributions)
+ - 🌮 [Embracing the Future of Work: The Power of Non-Contact](https://raghu0007.hashnode.dev/embracing-the-future-of-work-the-power-of-non-contact)
+ - 🔥 [Demystifying DevOps: The Pillars that Power Software Magic](https://raghu0007.hashnode.dev/demystifying-devops-the-pillars-that-power-software-magic)
+ - 🔥 [Supercharge Your Productivity with Digital Note-Taking!](https://raghu0007.hashnode.dev/supercharge-your-productivity-with-digital-note-taking)
+ - 🔥 [Learn Faster: The 80/20 Secret to Mastering Tech and Code!](https://raghu0007.hashnode.dev/learn-faster-the-8020-secret-to-mastering-tech-and-code)<!-- BLOGPOSTS:END -->
 ---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghu-007&show_icons=true&locale=en" alt="raghu-007" /></p>
