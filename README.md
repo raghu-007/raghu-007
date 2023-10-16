@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/raghu7_" target="blank"><img src="https://img.shields.io/twitter/follow/raghu7_?logo=twitter&style=for-the-badge" alt="raghu7_" /></a> </p>
 
-- 🔭 I’m currently working on **My Startup(Currently in Ideation Phase and Prototyping)**
+- 🔭 I’m currently working on **My Startup(Currently in Ideation Phase and Prototyping) & is in Stealth Mode**
 
 - 👯 I’m looking to collaborate on and contribute to **Open Source Projects and Startup, Business**
 
