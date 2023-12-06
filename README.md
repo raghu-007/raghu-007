@@ -17,8 +17,6 @@
 
 - 💬 Ask me about **Startup's and AI, DevOps & DevSecOps**
 
-- 📫 How to reach me **raghu-07@outlook.com**
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
