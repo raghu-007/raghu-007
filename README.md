@@ -27,11 +27,11 @@
 ---
 #### :books: Recent articles on Hashnode
 <!-- BLOGPOSTS:START -->
+ - 🌮 [Blog on the Harsh Reality Of Cloud Certifications!](https://raghu0007.hashnode.dev/blog-on-the-harsh-reality-of-cloud-certifications)
  - 🌮 [Blog On KubeCon + CloudNativeCon North America 2023.](https://raghu0007.hashnode.dev/blog-on-kubecon-cloudnativecon-north-america-2023)
- - 🌮 [My LFX Mentorship 2023 Showcase Experience.](https://raghu0007.hashnode.dev/my-lfx-mentorship-2023-showcase-experience)
+ - 🔥 [My LFX Mentorship 2023 Showcase Experience.](https://raghu0007.hashnode.dev/my-lfx-mentorship-2023-showcase-experience)
  - 🔥 [Exploring the Open Source Summit Europe 2023 in Bilbao, Spain.](https://raghu0007.hashnode.dev/exploring-the-open-source-summit-europe-2023-in-bilbao-spain)
- - 🔥 [Frameworks vs. Libraries: What&#39;s the Difference?](https://raghu0007.hashnode.dev/frameworks-vs-libraries-whats-the-difference)
- - 🔥 [Embracing the Future of Work: The Power of Non-Contact](https://raghu0007.hashnode.dev/embracing-the-future-of-work-the-power-of-non-contact)<!-- BLOGPOSTS:END -->
+ - 🔥 [Frameworks vs. Libraries: What&#39;s the Difference?](https://raghu0007.hashnode.dev/frameworks-vs-libraries-whats-the-difference)<!-- BLOGPOSTS:END -->
 ---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghu-007&show_icons=true&locale=en" alt="raghu-007" /></p>
