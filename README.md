@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghu S</h1>
-<h3 align="center">Founder Building in Stealth & Software Engineer | Into Tech & Entrepreneur</h3>
+<h3 align="center">Founder Building in Stealth & Software Engineer | Into Tech & Entrepreneurship</h3>
 
 - 🔭 I’m currently working on **My Startup(Currently in Ideation Phase and Prototyping) & is in Stealth Mode**
 
