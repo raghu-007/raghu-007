@@ -8,7 +8,7 @@
 
 ---
 
-<p align="center"><i>"Breaking things to make them secure, automating everything in between."</i></p>
+<p align="center"><i>"Building the future with AI, securing it through code, and scaling it with DevOps."</i></p>
 
 ## 🚀 About Me
 
