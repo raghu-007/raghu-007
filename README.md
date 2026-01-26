@@ -28,7 +28,7 @@ Roles: DevOps Engineer | AI Engineer | Bug Bounty Hunter
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raghu-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=raghu-007&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghu-007&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
@@ -43,7 +43,7 @@ Roles: DevOps Engineer | AI Engineer | Bug Bounty Hunter
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raghu-007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=raghu-007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies"/>
 </div>
 
 ---
