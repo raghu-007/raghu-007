@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=Hey+%F0%9F%91%8B+I'm+Raghu+S;DevOps+Engineer+%E2%9A%99%EF%B8%8F;AI+Engineer+%F0%9F%A4%96;Bug+Bounty+Hunter+%F0%9F%90%9B;Founder+Building+in+Stealth+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=Hey+%F0%9F%91%8B+I'm+Raghu+S;DevOps+Engineer+%E2%9A%99%EF%B8%8F;AI+Engineer+%F0%9F%A4%96;Bug+Bounty+Hunter+%F0%9F%90%9B;Founder+Building+in+Stealth+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -27,12 +27,18 @@ Roles: DevOps Engineer | AI Engineer | Bug Bounty Hunter
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghu-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats-one.vercel.app/?user=raghu-007&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <picture>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raghu-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  </picture>
+  <picture>
+    <img src="https://streak-stats.demolab.com/?user=raghu-007&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghu-007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <picture>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raghu-007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </picture>
 </div>
 
 <div align="center">
