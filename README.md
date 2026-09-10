@@ -27,23 +27,31 @@ Roles: DevOps Engineer | AI Engineer | Bug Bounty Hunter
 ## 📊 GitHub Stats
 
 <div align="center">
-  <picture>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raghu-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  </picture>
-  <picture>
-    <img src="https://streak-stats.demolab.com/?user=raghu-007&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-  </picture>
+  <a href="https://github.com/raghu-007?tab=overview">
+    <img src="https://github-stats-extended.vercel.app/api?username=raghu-007&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Raghu's public GitHub statistics" height="170" />
+  </a>
+  <a href="https://github.com/raghu-007?tab=overview">
+    <img src="https://streak-stats.demolab.com/?user=raghu-007&amp;theme=tokyonight&amp;hide_border=true" alt="Raghu's GitHub contribution streak" height="170" />
+  </a>
 </div>
 
 <div align="center">
-  <picture>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raghu-007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </picture>
+  <a href="https://github.com/raghu-007?tab=repositories">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=raghu-007&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Most-used languages in Raghu's public repositories" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghu-007&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+  <a href="https://github.com/raghu-007?tab=overview">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghu-007&amp;theme=tokyo-night&amp;hide_border=true&amp;days=31&amp;area=true" alt="Raghu's GitHub contribution activity over the last 31 days" width="100%" />
+  </a>
 </div>
+
+<p align="center">
+  <a href="https://github.com/raghu-007?tab=overview">View contribution activity on GitHub</a>
+  ·
+  <a href="https://github.com/raghu-007?tab=repositories">Explore public repositories</a>
+</p>
 
 ---
 
