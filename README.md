@@ -43,7 +43,7 @@ Roles: DevOps Engineer | AI Engineer | Bug Bounty Hunter
 
 <div align="center">
   <a href="https://github.com/raghu-007?tab=overview">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghu-007&amp;theme=tokyo-night&amp;hide_border=true&amp;days=31&amp;area=true" alt="Raghu's GitHub contribution activity over the last 31 days" width="100%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raghu-007&amp;theme=tokyonight" alt="Raghu's GitHub contribution summary" width="100%" />
   </a>
 </div>
 
